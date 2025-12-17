@@ -1,0 +1,22 @@
+{
+  "name": "ترجمه زیرنویس فارسی",
+  "short_name": "فا-ساب",
+  "description": "ترجمه سریع زیرنویس انگلیسی به فارسی با هوش مصنوعی",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#3498db",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/static/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
