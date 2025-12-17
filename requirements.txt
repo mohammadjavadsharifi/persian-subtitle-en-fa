@@ -1,0 +1,4 @@
+flask
+pysrt
+requests
+gunicorn
